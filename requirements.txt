@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+sounddevice
+scipy
+whisper
+torch
+ollama
+webbrowser
+numpy
+wave
+ffmpeg-python
